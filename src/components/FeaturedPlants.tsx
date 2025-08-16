@@ -21,7 +21,7 @@ const FeaturedPlants = () => {
       name: "Hibiscus",
       type: "Outdoor",
       category: "outdoor",
-      image: "https://images.pexels.com/photos/158063/bellis-perennis-daisy-flower-spring-158063.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://images.pexels.com/photos/4751978/pexels-photo-4751978.jpeg?auto=compress&cs=tinysrgb&w=800",
       benefits: ["Vibrant Blooms", "Heat Tolerant", "Attracts Butterflies"],
       price: "₹199",
       description: "Stunning tropical flowers that bloom throughout the growing season."
@@ -51,7 +51,7 @@ const FeaturedPlants = () => {
       name: "Bougainvillea",
       type: "Outdoor",
       category: "outdoor",
-      image: "https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://images.pexels.com/photos/4751978/pexels-photo-4751978.jpeg?auto=compress&cs=tinysrgb&w=800",
       benefits: ["Colorful Bracts", "Drought Resistant", "Climbing Vine"],
       price: "₹249",
       description: "Spectacular climbing plant with papery colorful bracts in various hues."

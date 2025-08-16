@@ -36,7 +36,7 @@ const Gallery = () => {
       description: "Plants that clean your indoor air naturally"
     },
     {
-      src: "https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&w=800",
+      src: "https://images.pexels.com/photos/4751978/pexels-photo-4751978.jpeg?auto=compress&cs=tinysrgb&w=800",
       alt: "Bougainvillea climbing vine",
       category: "outdoor",
       title: "Bougainvillea",
